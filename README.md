@@ -1,6 +1,6 @@
 # bmi_calculator
 
-![alt text](https://drive.google.com/file/d/1yp6FjyY92U5oROxXh3KSa6Wlkvfz382v/view?usp=sharing)
+![alt text](https://i.postimg.cc/BbB5v7Fk/Screenshot-20250825-172556.jpg)
 
 A new Flutter project.
 
